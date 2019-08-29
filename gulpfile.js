@@ -38,7 +38,7 @@ gulp.task('copy-css', function () {
 });
 
 gulp.task('copy-fonts', function () {
-    return gulp.src('src/assets/fonts/*.woff2')
+    return gulp.src('src/assets/fonts/*')
         .pipe(gulp.dest('dist/assets/fonts'))
         .pipe(connect.reload());
 
@@ -70,7 +70,7 @@ gulp.task('compress', function() {
 });
 
 gulp.task('image', function () {
-    return gulp.src('src/assets/img/*')
+    return gulp.src('src/assets/img/**/*')
         .pipe(image())
         .pipe(gulp.dest('dist/assets/img'));
 });
