@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="90"
+   height="90"
+   viewBox="0 0 23.812499 23.812499"
    version="1.1"
    id="svg1923"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -68,17 +68,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-127.14286"
-     inkscape:cy="560"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="82.321454"
+     inkscape:cy="-18.485828"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="838"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-global="false" />
   <metadata
      id="metadata1920">
     <rdf:RDF>
@@ -94,9 +96,10 @@
   <g
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-273.18756)">
     <g
-       transform="translate(-506.74724,92.254894)"
+       transform="translate(-520.39773,301.77553)"
        id="g1915">
       <ellipse
          inkscape:export-ydpi="300"

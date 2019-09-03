@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="25mm"
+   height="25mm"
+   viewBox="0 0 25 25"
    version="1.1"
    id="svg1923"
    sodipodi:docname="telefone.svg"
@@ -70,12 +70,12 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
      inkscape:cx="-9.3670886"
-     inkscape:cy="625.11781"
+     inkscape:cy="463.4934"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="838"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -94,9 +94,10 @@
   <g
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-272)">
     <g
-       transform="translate(-506.74724,92.254894)"
+       transform="translate(-548.9973,301.81031)"
        id="g1911">
       <ellipse
          inkscape:export-ydpi="300"

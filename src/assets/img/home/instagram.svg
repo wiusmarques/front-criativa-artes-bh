@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="25mm"
+   height="25mm"
+   viewBox="0 0 25 25"
    version="1.1"
    id="svg1923"
    sodipodi:docname="instagram.svg"
@@ -70,12 +70,12 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
      inkscape:cx="-9.3544089"
-     inkscape:cy="624.34365"
+     inkscape:cy="381.90704"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="838"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -94,9 +94,10 @@
   <g
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-272)">
     <g
-       transform="translate(-506.74724,92.254894)"
+       transform="translate(-577.84093,301.2704)"
        id="g1907">
       <ellipse
          inkscape:export-ydpi="300"

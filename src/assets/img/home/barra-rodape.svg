@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48mm"
-   height="48mm"
-   viewBox="0 0 48 48"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
    version="1.1"
    id="svg1923"
-   sodipodi:docname="lupa.svg"
+   sodipodi:docname="barra rodapé.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <defs
      id="defs1917">
@@ -1289,14 +1289,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="70.21587"
-     inkscape:cy="70.335709"
+     inkscape:zoom="0.35"
+     inkscape:cx="14.439547"
+     inkscape:cy="716.04542"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -1315,22 +1315,16 @@
   <g
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-249)">
-    <g
-       transform="matrix(4.3817616,0,0,4.5063674,-227.65073,99.918343)"
-       id="g5823">
-      <circle
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#f1aeb3;stroke-width:1.45899999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle5819"
-         cx="56.085411"
-         cy="37.388783"
-         r="3.315239" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#f1aeb3;stroke-width:1.69000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 59.024078,39.750691 2.951437,2.951435"
-         id="path5821"
-         inkscape:connector-curvature="0" />
-    </g>
+     id="layer1">
+    <rect
+       y="296.11221"
+       x="-44.35664"
+       height="9.5146542"
+       width="329.00946"
+       id="rect9884"
+       style="opacity:1;fill:#f5c6c0;fill-opacity:1;stroke:none;stroke-width:0.42917174;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       ry="5.1770996e-14"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
   </g>
 </svg>
