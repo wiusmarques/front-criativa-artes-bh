@@ -1,0 +1,20 @@
+$pink: #ff7393;
+$blue: #00bfeb;
+$yellow: #d0aa0f;
+$green: #51bb7c;
+
+@font-face {
+  font-family: "Nexa_Free_Light";
+  src: url("../../fonts/Nexa_Free_Light-webfont.woff2") format("woff2"),
+    url("../../fonts/fonts/Nexa_Free_Light-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Nexa_Free_Bold";
+  src: url("../../fonts/Nexa_Free_Bold-webfont.woff2") format("woff2"),
+    url("../../fonts/fonts/Nexa_Free_Bold-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
