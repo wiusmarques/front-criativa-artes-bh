@@ -1,4 +1,4 @@
-@import 'font-colors.scss';
+@import "font-colors.scss";
 body {
   margin: 0;
   font-family: "Nexa_Free_Light";
@@ -94,11 +94,12 @@ body {
   }
 }
 
-.d-none{
+.d-none {
   display: none;
 }
 
-.d-block{
+
+.d-block {
   display: block;
 }
 
@@ -116,4 +117,20 @@ body {
 
 .color-green {
   color: $green;
+}
+
+.bg-pink {
+  background-color: $bg-pink;
+}
+
+.bg-blue {
+  background-color: $bg-blue;
+}
+
+.bg-yellow {
+  background-color: $bg-yellow;
+}
+
+.bg-green {
+  background-color: $bg-green;
 }

@@ -1,5 +1,7 @@
-(function () {
 
+
+(function () {
+    
     init = function () {
         this.tabActions();
     },
@@ -30,17 +32,19 @@
             if (currentHash == elHash) {
                 el.classList.add("section-more-tab_active");
                 let information = document.querySelector("[data-information-active='" + currentDataActive + "']");
-                information.classList.add("d-block");
-                information.classList.remove("d-none");
+                information.classList.add("visibility-visible");
+                information.classList.remove("visibility-hidden");
             } else {
                 el.classList.remove("section-more-tab_active")
                 let information = document.querySelector("[data-information-active='" + currentDataActive + "']");
-                information.classList.add("d-none");
-                information.classList.remove("d-block");
+                information.classList.add("visibility-hidden");
+                information.classList.remove("visibility-visible");
             }
         }
     }
 
+
+    
 
     this.init();
 }())
@@ -58,4 +62,4 @@ String.prototype.hashCode = function () {
     return hash;
 }
 
-var sw = new Swiper('.swiper-comments');
+
