@@ -8,6 +8,9 @@ body {
   position: sticky;
   top: 0;
   z-index: 2;
+  @media screen and(max-width:980px){
+    display: none;
+  }
 }
 .section {
   &-header {
@@ -133,4 +136,9 @@ body {
 
 .bg-green {
   background-color: $bg-green;
+}
+
+.content-center{
+  margin-right: auto;
+  margin-left: auto;
 }

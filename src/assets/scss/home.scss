@@ -7,11 +7,22 @@
     background-image: url("../img/home/fundo-madeira.jpg");
     justify-content: center;
     text-align: center;
+    @media screen and(max-width:980px){
+      height: 700px;
+    }
     &-items {
       text-align: center;
       padding-top: 50px;
       width: 100%;
       
+      @media screen and(max-width:980px){
+        display: grid;
+        text-align: center;
+        justify-content: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+      }
+
       button {
         font-family: "Nexa_Free_Bold";
         padding: 10px 10px 0 10px;
@@ -37,7 +48,7 @@
         font-family: "Nexa_Free_Light";
         font-size: 20px;
         padding: 25px;
-        text-align: left;
+        text-align: justify;
         min-height: 160px;
         
         position: absolute;
@@ -45,6 +56,18 @@
         margin-right: auto;
         left: 0;
         right: 0;
+
+        @media screen and(max-width:980px){
+          margin: 20px;
+        }
+      }
+      &-comment{
+        p{
+          &:last-child{
+            text-align: right;
+          }
+        }
+        
       }
     }
     &-tab_active{
