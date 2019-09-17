@@ -34,7 +34,7 @@
       width: 100%;
       
       @media screen and(max-width:980px){
-        display: grid;
+        display: inherit;
         text-align: center;
         justify-content: center;
         padding-top: 20px;
